@@ -1,5 +1,5 @@
 variable "ami" {
-  description = "Base machine image for running this server"
+  description = "Base machine image for running this server 2, test"
 }
 
 variable "num_webs" {
